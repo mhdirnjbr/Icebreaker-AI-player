@@ -1,0 +1,1 @@
+java -cp IB_1_o.jar iialib.games.contest.Client -p 4536 -s localhost -c games.icebreaker.IBHumanChallenger
