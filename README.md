@@ -1,4 +1,4 @@
-# Intelligence Artificielle - TP2F - Ranjbar Dubos
+# Intelligence Artificielle
 
 ## Commande pour executer le programme
 
